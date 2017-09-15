@@ -46,6 +46,11 @@ objdump -d ./draw > draw.s
 | ADDR         | Address of `last`                        |
 | OFFSET       | Assembly offset between line `57` and line` 60` |
 
+5. Recompile `draw.c`.
+
+```sh
+gcc -Wl,-z,norelro draw.c -o draw
+```
 
 ## How
 
