@@ -13,7 +13,7 @@ When I audited a class of **Cryptography**, Professor gave us a task as follows:
 
 ## Prerequisites
 
-* Ubuntu or other 64 bits Unix-like system
+* Ubuntu or other 64 bits Unix-like operating system
 * gcc 5.0 or higher
 * `/dev/urandom`should be avaliable
 
