@@ -54,4 +54,4 @@ gcc -Wl,-z,norelro draw.c -o draw
 
 ## How
 
-I may write a blog about it when I got free...
+[函数堆栈、格式化字符串攻击及抽奖作弊](https://w-angler.com/blog/4/42)
