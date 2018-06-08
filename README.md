@@ -54,4 +54,4 @@ gcc -Wl,-z,norelro draw.c -o draw
 
 ## How
 
-[函数堆栈、格式化字符串攻击及抽奖作弊](https://w-angler.com/blog/4/42)
+[函数堆栈、格式化字符串攻击及抽奖作弊](http://w-angler.com/2017/09/21/%E5%87%BD%E6%95%B0%E5%A0%86%E6%A0%88%E3%80%81%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%AD%97%E7%AC%A6%E4%B8%B2%E6%94%BB%E5%87%BB%E4%BB%A5%E5%8F%8A%E6%8A%BD%E5%A5%96%E4%BD%9C%E5%BC%8A/)
