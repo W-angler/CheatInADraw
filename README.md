@@ -5,10 +5,10 @@ A less elegant program shows how to cheat in a draw by using serval dangerous tr
 
 When I audited a class of **Cryptography**, Professor gave us a task as follows:
 
-1. There are N people joined a draw and N will be the lucky dogs. You shall write a program to do this.
+1. There are N people joined a draw and M of them will be the lucky dogs. You shall write a program to do this.
 2. The result of draw should be random.
 3. No one can be chosen twice.
-4. After finished this, try to cheat others in your program to make someone owned a higher probability of win.
+4. After finished this, try to cheat others in your program to make someone owned a higher probability of winning.
 5. Try to hide your cheat in your code so that no one will find it.
 
 ## Prerequisites
